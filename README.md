@@ -11,6 +11,6 @@ Dataset contains:
         1) 70,000 grayscale images in 10 categories
         2) each image is 28*28 pixels
 
-#### Sorce code : Tensorflow Keras Documentation
+#### Source code : Tensorflow Keras Documentation
 
 [Check here for tensorflow documentation](https://www.tensorflow.org/tutorials/keras/basic_classification)
